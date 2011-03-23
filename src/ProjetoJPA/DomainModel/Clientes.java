@@ -26,7 +26,7 @@ public class Clientes {
 	public void setId(int id) {
 		this.id = id;
 	}
-	public String getNome() {
+	public String getNome(){
 		return nome;
 	}
 	public void setNome(String nome) {
